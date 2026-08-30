@@ -1,0 +1,10 @@
+{
+  "frametime": 4,
+  "interpolate": true,
+  "frames": [
+    "raw_copper",
+    "raw_copper_1",
+    "raw_copper_2",
+    "raw_copper_3"
+  ]
+}
