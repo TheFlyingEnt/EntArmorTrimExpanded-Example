@@ -1,0 +1,9 @@
+{
+  "asset_name": "raw_copper",
+  "description": {
+    "translate": "trim_material.example.raw_copper",
+    "color": "#B86A3C"
+  },
+  "ingredient": "minecraft:raw_copper",
+  "item_model_index": 0.35
+}

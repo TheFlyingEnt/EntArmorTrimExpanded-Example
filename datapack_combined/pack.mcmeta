@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "description": "Raw Copper Animated Trim Example Pack",
+    "pack_format": 48
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": [48,48],
+        "directory": "data_1_21_1"
+      },
+    {
+        "formats": [107,107],
+        "directory": "data_26_2"
+      }
+    ]
+  }
+}
