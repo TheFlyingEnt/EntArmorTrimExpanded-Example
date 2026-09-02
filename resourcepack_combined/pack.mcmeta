@@ -1,16 +1,17 @@
 {
   "pack": {
     "description": "Raw Copper Animated Trim Example Texture Pack",
-    "pack_format": 88
+    "pack_format": 88,
+    "supported_formats": { "min_inclusive": 34, "max_inclusive": 88 }
   },
   "overlays": {
     "entries": [
       {
-        "formats": [34,34],
+        "formats": [34, 34],
         "directory": "assets_1_21_1"
       },
-    {
-        "formats": [68,68],
+      {
+        "formats": [88, 88],
         "directory": "assets_26_2"
       }
     ]
